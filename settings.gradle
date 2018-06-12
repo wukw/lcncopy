@@ -1,0 +1,4 @@
+rootProject.name = 'lcncopy'
+include 'lcn-copy-dubbo'
+include 'lcn-copy-client'
+
